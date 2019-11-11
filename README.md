@@ -1,2 +1,1 @@
-# bio331_geospatial
-Geospatial for bio331
+BIO331 Course Repository for Spatial Bioinformatics Unit
