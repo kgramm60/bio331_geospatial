@@ -67,3 +67,4 @@ ggplot() +
   geom_raster(data = c2_df, aes(x = x, y = y, fill = bio12)) +
   coord_quickmap() +
   theme_bw()
+
