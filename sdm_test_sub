@@ -23,4 +23,4 @@ module load R/3.6.0
 
 cd /project/ct-shbioinf/kgramm/bio331-geospatial
 
-Rscript R/ENM Script.R
+Rscript R/ENM_Script.R
