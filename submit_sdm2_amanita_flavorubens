@@ -14,7 +14,6 @@
 #Join the error and output file
 #$ -j y
 
-
 # Set the runtime limit (default 12 hours):
 #$ -l h_rt=12:00:00
 
@@ -23,5 +22,6 @@
 
 module load R/3.6.0
 
-Rscript R/sdm2.R “Amanita flavorubens”
+Rscript R/sdm2.R "Amanita flavorubens"
+
 
