@@ -23,5 +23,5 @@
 
 module load R/3.6.0
 
-Rscript R/sdm2.R “Tipula ultima”
+Rscript R/sdm2.R "Tipula ultima"
 
