@@ -22,4 +22,6 @@
 
 module load R/3.6.0
 
+cd /project/ct-shbioinf/kgramm/bio331_geospatial
+
 Rscript R/sdm2.R "Nothofagus antarctica"
